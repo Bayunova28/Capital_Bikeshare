@@ -1,5 +1,5 @@
 # Capital Bikeshare
-<img src="https://github.com/Bayunova28/Capital_Bikeshare/blob/master/cover.jpg" height="500" width="1100">
+<img src="https://github.com/Bayunova28/Capital_Bikeshare/blob/master/cover.jpg" height="450" width="1100">
 
 ## Background
 <p align="justify">Capital Bikeshare, like other bikeshare systems, consists of a fleet of specially designed, sturdy and durable bikes that are locked into a network of 
@@ -11,10 +11,10 @@ return back at another position. Currently, there are about over 500 bike-sharin
 Today, there exists great interest in these systems due to their important role in traffic, environmental and health issues.</p>
 
 ## Dashboard By Casual User
-<img src="https://github.com/Bayunova28/Capital_Bikeshare/blob/master/by Casual.jpg" height="620" width="1100">
+<img src="https://github.com/Bayunova28/Capital_Bikeshare/blob/master/by Casual.jpg" height="600" width="1100">
 
 ## Dashboard By Registered User
-<img src="https://github.com/Bayunova28/Capital_Bikeshare/blob/master/By Registered.jpg" height="620" width="1100">
+<img src="https://github.com/Bayunova28/Capital_Bikeshare/blob/master/By Registered.jpg" height="600" width="1100">
 
 ## Data Analysis Expressions (DAX) Calculation
 ### Additional Table & Columns
