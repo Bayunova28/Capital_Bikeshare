@@ -7,8 +7,7 @@ docking stations throughout the region. The bikes can be unlocked from any stati
 People use bikeshare to commute to work or school, run errands, get to appointments or social engagements and more. Capital Bikeshare is available for use 24 hours a day,
 7 days a week, 365 days a year. Riders have access to a bike at any station across the system. Bike sharing systems are new generation of traditional bike rentals where 
 whole process from membership, rental and return back has become automatic. Through these systems, user is able to easily rent a bike from a particular position and 
-return back at another position. Currently, there are about over 500 bike-sharing programs around the world which is composed of over 500 thousands bicycles. 
-Today, there exists great interest in these systems due to their important role in traffic, environmental and health issues.</p>
+return back at another position. Currently, there are about over 500 bike-sharing programs around the world which is composed of over 500 thousands bicycles and exists great interest in these systems due to their important role in traffic, environmental and health issues.</p>
 
 ## Dashboard By Casual User
 <img src="https://github.com/Bayunova28/Capital_Bikeshare/blob/master/by Casual.jpg" height="600" width="1100">
