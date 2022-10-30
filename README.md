@@ -13,7 +13,7 @@ return back at another position. Currently, there are about over 500 bike-sharin
 <img src="https://github.com/Bayunova28/Capital_Bikeshare/blob/master/by Casual.jpg" height="600" width="1100">
 
 ## Dashboard By Registered User
-<img src="https://github.com/Bayunova28/Capital_Bikeshare/blob/master/By Registered.jpg" height="600" width="1100">
+<img src="https://github.com/Bayunova28/Capital_Bikeshare/blob/master/by Registered.jpg" height="600" width="1100">
 
 ## Data Analysis Expressions (DAX) Calculation
 ### Additional Table & Columns
